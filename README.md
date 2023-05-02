@@ -2,8 +2,10 @@
 
 Steps:
 
-1)	Read 3 text documents(the length of each file is from 3 to 4 sentences).
-2)	Pre-processing using NLTK and Regex:
+-Read 3 text documents(the length of each file is from 3 to 4 sentences).
+
+-Pre-processing using NLTK and Regex:
+
 1.	Tokenization
 2.	Lower case
 3.	Stopwords removal
